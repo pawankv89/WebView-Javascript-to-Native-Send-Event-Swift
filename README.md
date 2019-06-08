@@ -7,9 +7,9 @@
 ------------
 Added Some screens here.
 
+![](https://github.com/pawankv89/WebView-Javascript-to-Native-Send-Event-Swift/blob/master/images/flow.png)
 ![](https://github.com/pawankv89/WebView-Javascript-to-Native-Send-Event-Swift/blob/master/images/screen_1.png)
 ![](https://github.com/pawankv89/WebView-Javascript-to-Native-Send-Event-Swift/blob/master/images/screen_2.png)
-![](https://github.com/pawankv89/WebView-Javascript-to-Native-Send-Event-Swift/blob/master/images/screen_3.png)
 
 
 ## Usage
